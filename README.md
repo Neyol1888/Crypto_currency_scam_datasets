@@ -40,7 +40,7 @@ This dataset is intended for:
 
 ## License
 ```
-This dataset is provided under the MIT License. Please ensure compliance with its terms and conditions.
+Please ensure compliance with author's terms and conditions.
 ```
 
 ## Attribution
